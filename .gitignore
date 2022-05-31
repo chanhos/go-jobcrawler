@@ -1,0 +1,5 @@
+#exe
+*.exe
+
+#csv , etc output file
+*.csv
